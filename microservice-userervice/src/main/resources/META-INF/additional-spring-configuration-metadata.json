@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "ORDERSERVICERUL",
+      "type": "java.lang.String",
+      "description": "Description for ORDERSERVICERUL."
+  }
+] }
